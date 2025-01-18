@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleNOTuygulamasi\bin\Debug\WindowsFormİleNOTuygulamasi.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleNOTuygulamasi\bin\Debug\WindowsFormİleNOTuygulamasi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleNOTuygulamasi\bin\Debug\WindowsFormİleNOTuygulamasi.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleNOTuygulamasi\obj\Debug\WindowsFormİleNOTuygulamasi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleNOTuygulamasi\obj\Debug\WindowsFormİleNOTuygulamasi.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleNOTuygulamasi\obj\Debug\WindowsFormİleNOTuygulamasi.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleNOTuygulamasi\obj\Debug\WindowsFormİleNOTuygulamasi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleNOTuygulamasi\obj\Debug\WindowsFormİleNOTuygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleNOTuygulamasi\obj\Debug\WindowsFormİleNOTuygulamasi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleNOTuygulamasi\obj\Debug\WindowsFormİleNOTuygulamasi.pdb

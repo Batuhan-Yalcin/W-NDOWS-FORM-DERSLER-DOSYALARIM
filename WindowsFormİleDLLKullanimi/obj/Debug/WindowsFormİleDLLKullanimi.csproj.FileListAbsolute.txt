@@ -1,0 +1,13 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleDLLKullanimi\bin\Debug\WindowsFormİleDLLKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleDLLKullanimi\bin\Debug\WindowsFormİleDLLKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleDLLKullanimi\bin\Debug\WindowsFormİleDLLKullanimi.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleDLLKullanimi\bin\Debug\Matematikİslemleri.dll
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleDLLKullanimi\bin\Debug\Matematikİslemleri.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleDLLKullanimi\obj\Debug\WindowsFormİleDLLKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleDLLKullanimi\obj\Debug\WindowsFormİleDLLKullanimi.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleDLLKullanimi\obj\Debug\WindowsFormİleDLLKullanimi.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleDLLKullanimi\obj\Debug\WindowsFormİleDLLKullanimi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleDLLKullanimi\obj\Debug\WindowsFormİleDLLKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleDLLKullanimi\obj\Debug\WindowsF.4A9176FB.Up2Date
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleDLLKullanimi\obj\Debug\WindowsFormİleDLLKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleDLLKullanimi\obj\Debug\WindowsFormİleDLLKullanimi.pdb

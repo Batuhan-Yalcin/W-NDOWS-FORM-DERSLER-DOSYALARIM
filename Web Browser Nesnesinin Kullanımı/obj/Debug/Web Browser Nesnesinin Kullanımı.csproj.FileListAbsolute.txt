@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\Web Browser Nesnesinin Kullanımı\bin\Debug\Web Browser Nesnesinin Kullanımı.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\Web Browser Nesnesinin Kullanımı\bin\Debug\Web Browser Nesnesinin Kullanımı.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\Web Browser Nesnesinin Kullanımı\bin\Debug\Web Browser Nesnesinin Kullanımı.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\Web Browser Nesnesinin Kullanımı\obj\Debug\Web Browser Nesnesinin Kullanımı.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\Web Browser Nesnesinin Kullanımı\obj\Debug\Web_Browser_Nesnesinin_Kullanımı.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\Web Browser Nesnesinin Kullanımı\obj\Debug\Web_Browser_Nesnesinin_Kullanımı.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\Web Browser Nesnesinin Kullanımı\obj\Debug\Web Browser Nesnesinin Kullanımı.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\Web Browser Nesnesinin Kullanımı\obj\Debug\Web Browser Nesnesinin Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\Web Browser Nesnesinin Kullanımı\obj\Debug\Web Browser Nesnesinin Kullanımı.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\Web Browser Nesnesinin Kullanımı\obj\Debug\Web Browser Nesnesinin Kullanımı.pdb

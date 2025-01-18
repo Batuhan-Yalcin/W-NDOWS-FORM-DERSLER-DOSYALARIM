@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\RadioButtonKullanimi\bin\Debug\RadioButtonKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\RadioButtonKullanimi\bin\Debug\RadioButtonKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\RadioButtonKullanimi\bin\Debug\RadioButtonKullanimi.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\RadioButtonKullanimi\obj\Debug\RadioButtonKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\RadioButtonKullanimi\obj\Debug\RadioButtonKullanimi.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\RadioButtonKullanimi\obj\Debug\RadioButtonKullanimi.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\RadioButtonKullanimi\obj\Debug\RadioButtonKullanimi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\RadioButtonKullanimi\obj\Debug\RadioButtonKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\RadioButtonKullanimi\obj\Debug\RadioButtonKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\RadioButtonKullanimi\obj\Debug\RadioButtonKullanimi.pdb

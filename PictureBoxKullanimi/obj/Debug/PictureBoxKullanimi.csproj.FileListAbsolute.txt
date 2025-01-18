@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\PictureBoxKullanimi\bin\Debug\PictureBoxKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\PictureBoxKullanimi\bin\Debug\PictureBoxKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\PictureBoxKullanimi\bin\Debug\PictureBoxKullanimi.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\PictureBoxKullanimi\obj\Debug\PictureBoxKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\PictureBoxKullanimi\obj\Debug\PictureBoxKullanimi.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\PictureBoxKullanimi\obj\Debug\PictureBoxKullanimi.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\PictureBoxKullanimi\obj\Debug\PictureBoxKullanimi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\PictureBoxKullanimi\obj\Debug\PictureBoxKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\PictureBoxKullanimi\obj\Debug\PictureBoxKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\PictureBoxKullanimi\obj\Debug\PictureBoxKullanimi.pdb

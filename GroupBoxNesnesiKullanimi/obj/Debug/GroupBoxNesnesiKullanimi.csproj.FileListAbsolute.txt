@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\GroupBoxNesnesiKullanimi\bin\Debug\GroupBoxNesnesiKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\GroupBoxNesnesiKullanimi\bin\Debug\GroupBoxNesnesiKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\GroupBoxNesnesiKullanimi\bin\Debug\GroupBoxNesnesiKullanimi.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\GroupBoxNesnesiKullanimi\obj\Debug\GroupBoxNesnesiKullanimi.pdb

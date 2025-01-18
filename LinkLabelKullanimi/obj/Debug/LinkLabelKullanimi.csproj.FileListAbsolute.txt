@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\LinkLabelKullanimi\bin\Debug\LinkLabelKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\LinkLabelKullanimi\bin\Debug\LinkLabelKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\LinkLabelKullanimi\bin\Debug\LinkLabelKullanimi.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\LinkLabelKullanimi\obj\Debug\LinkLabelKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\LinkLabelKullanimi\obj\Debug\LinkLabelKullanimi.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\LinkLabelKullanimi\obj\Debug\LinkLabelKullanimi.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\LinkLabelKullanimi\obj\Debug\LinkLabelKullanimi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\LinkLabelKullanimi\obj\Debug\LinkLabelKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\LinkLabelKullanimi\obj\Debug\LinkLabelKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\LinkLabelKullanimi\obj\Debug\LinkLabelKullanimi.pdb

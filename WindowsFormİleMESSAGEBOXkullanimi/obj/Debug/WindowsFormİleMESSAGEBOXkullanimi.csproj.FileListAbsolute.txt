@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleMESSAGEBOXkullanimi\bin\Debug\WindowsFormİleMESSAGEBOXkullanimi.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleMESSAGEBOXkullanimi\bin\Debug\WindowsFormİleMESSAGEBOXkullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleMESSAGEBOXkullanimi\bin\Debug\WindowsFormİleMESSAGEBOXkullanimi.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleMESSAGEBOXkullanimi\obj\Debug\WindowsFormİleMESSAGEBOXkullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleMESSAGEBOXkullanimi\obj\Debug\WindowsFormİleMESSAGEBOXkullanimi.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleMESSAGEBOXkullanimi\obj\Debug\WindowsFormİleMESSAGEBOXkullanimi.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleMESSAGEBOXkullanimi\obj\Debug\WindowsFormİleMESSAGEBOXkullanimi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleMESSAGEBOXkullanimi\obj\Debug\WindowsFormİleMESSAGEBOXkullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleMESSAGEBOXkullanimi\obj\Debug\WindowsFormİleMESSAGEBOXkullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleMESSAGEBOXkullanimi\obj\Debug\WindowsFormİleMESSAGEBOXkullanimi.pdb

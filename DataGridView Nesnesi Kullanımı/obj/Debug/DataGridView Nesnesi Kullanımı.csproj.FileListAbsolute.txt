@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\DataGridView Nesnesi Kullanımı\bin\Debug\DataGridView Nesnesi Kullanımı.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\DataGridView Nesnesi Kullanımı\bin\Debug\DataGridView Nesnesi Kullanımı.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\DataGridView Nesnesi Kullanımı\bin\Debug\DataGridView Nesnesi Kullanımı.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\DataGridView Nesnesi Kullanımı\obj\Debug\DataGridView Nesnesi Kullanımı.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\DataGridView Nesnesi Kullanımı\obj\Debug\DataGridView_Nesnesi_Kullanımı.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\DataGridView Nesnesi Kullanımı\obj\Debug\DataGridView_Nesnesi_Kullanımı.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\DataGridView Nesnesi Kullanımı\obj\Debug\DataGridView Nesnesi Kullanımı.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\DataGridView Nesnesi Kullanımı\obj\Debug\DataGridView Nesnesi Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\DataGridView Nesnesi Kullanımı\obj\Debug\DataGridView Nesnesi Kullanımı.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\DataGridView Nesnesi Kullanımı\obj\Debug\DataGridView Nesnesi Kullanımı.pdb

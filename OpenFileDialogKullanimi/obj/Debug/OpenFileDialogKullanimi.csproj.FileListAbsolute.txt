@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\OpenFileDialogKullanimi\bin\Debug\OpenFileDialogKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\OpenFileDialogKullanimi\bin\Debug\OpenFileDialogKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\OpenFileDialogKullanimi\bin\Debug\OpenFileDialogKullanimi.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\OpenFileDialogKullanimi\obj\Debug\OpenFileDialogKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\OpenFileDialogKullanimi\obj\Debug\OpenFileDialogKullanimi.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\OpenFileDialogKullanimi\obj\Debug\OpenFileDialogKullanimi.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\OpenFileDialogKullanimi\obj\Debug\OpenFileDialogKullanimi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\OpenFileDialogKullanimi\obj\Debug\OpenFileDialogKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\OpenFileDialogKullanimi\obj\Debug\OpenFileDialogKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\OpenFileDialogKullanimi\obj\Debug\OpenFileDialogKullanimi.pdb

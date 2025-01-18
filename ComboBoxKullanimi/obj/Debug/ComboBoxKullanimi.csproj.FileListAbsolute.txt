@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\ComboBoxKullanimi\bin\Debug\ComboBoxKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\ComboBoxKullanimi\bin\Debug\ComboBoxKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\ComboBoxKullanimi\bin\Debug\ComboBoxKullanimi.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\ComboBoxKullanimi\obj\Debug\ComboBoxKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\ComboBoxKullanimi\obj\Debug\ComboBoxKullanimi.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\ComboBoxKullanimi\obj\Debug\ComboBoxKullanimi.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\ComboBoxKullanimi\obj\Debug\ComboBoxKullanimi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\ComboBoxKullanimi\obj\Debug\ComboBoxKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\ComboBoxKullanimi\obj\Debug\ComboBoxKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\ComboBoxKullanimi\obj\Debug\ComboBoxKullanimi.pdb

@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\ProgresBar Kullanımı\bin\Debug\ProgresBar Kullanımı.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\ProgresBar Kullanımı\bin\Debug\ProgresBar Kullanımı.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\ProgresBar Kullanımı\bin\Debug\ProgresBar Kullanımı.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\ProgresBar Kullanımı\obj\Debug\ProgresBar Kullanımı.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\ProgresBar Kullanımı\obj\Debug\ProgresBar_Kullanımı.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\ProgresBar Kullanımı\obj\Debug\ProgresBar_Kullanımı.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\ProgresBar Kullanımı\obj\Debug\ProgresBar Kullanımı.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\ProgresBar Kullanımı\obj\Debug\ProgresBar Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\ProgresBar Kullanımı\obj\Debug\ProgresBar Kullanımı.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\ProgresBar Kullanımı\obj\Debug\ProgresBar Kullanımı.pdb

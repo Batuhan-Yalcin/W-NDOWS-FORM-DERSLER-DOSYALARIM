@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\MaskedTextBoxKullanimi\bin\Debug\MaskedTextBoxKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\MaskedTextBoxKullanimi\bin\Debug\MaskedTextBoxKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\MaskedTextBoxKullanimi\bin\Debug\MaskedTextBoxKullanimi.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\MaskedTextBoxKullanimi\obj\Debug\MaskedTextBoxKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\MaskedTextBoxKullanimi\obj\Debug\MaskedTextBoxKullanimi.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\MaskedTextBoxKullanimi\obj\Debug\MaskedTextBoxKullanimi.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\MaskedTextBoxKullanimi\obj\Debug\MaskedTextBoxKullanimi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\MaskedTextBoxKullanimi\obj\Debug\MaskedTextBoxKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\MaskedTextBoxKullanimi\obj\Debug\MaskedTextBoxKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\MaskedTextBoxKullanimi\obj\Debug\MaskedTextBoxKullanimi.pdb

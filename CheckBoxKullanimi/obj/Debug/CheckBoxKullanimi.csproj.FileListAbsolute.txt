@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\CheckBoxKullanimi\bin\Debug\CheckBoxKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\CheckBoxKullanimi\bin\Debug\CheckBoxKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\CheckBoxKullanimi\bin\Debug\CheckBoxKullanimi.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\CheckBoxKullanimi\obj\Debug\CheckBoxKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\CheckBoxKullanimi\obj\Debug\CheckBoxKullanimi.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\CheckBoxKullanimi\obj\Debug\CheckBoxKullanimi.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\CheckBoxKullanimi\obj\Debug\CheckBoxKullanimi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\CheckBoxKullanimi\obj\Debug\CheckBoxKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\CheckBoxKullanimi\obj\Debug\CheckBoxKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\CheckBoxKullanimi\obj\Debug\CheckBoxKullanimi.pdb
