@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\Timer Nesnesi Kullanımı\bin\Debug\Timer Nesnesi Kullanımı.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\Timer Nesnesi Kullanımı\bin\Debug\Timer Nesnesi Kullanımı.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\Timer Nesnesi Kullanımı\bin\Debug\Timer Nesnesi Kullanımı.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\Timer Nesnesi Kullanımı\obj\Debug\Timer Nesnesi Kullanımı.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\Timer Nesnesi Kullanımı\obj\Debug\Timer_Nesnesi_Kullanımı.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\Timer Nesnesi Kullanımı\obj\Debug\Timer_Nesnesi_Kullanımı.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\Timer Nesnesi Kullanımı\obj\Debug\Timer Nesnesi Kullanımı.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\Timer Nesnesi Kullanımı\obj\Debug\Timer Nesnesi Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\Timer Nesnesi Kullanımı\obj\Debug\Timer Nesnesi Kullanımı.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\Timer Nesnesi Kullanımı\obj\Debug\Timer Nesnesi Kullanımı.pdb

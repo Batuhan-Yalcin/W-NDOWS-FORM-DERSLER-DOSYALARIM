@@ -1,0 +1,11 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\MenuStrıpKullanimi\bin\Debug\MenuStrıpKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\MenuStrıpKullanimi\bin\Debug\MenuStrıpKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\MenuStrıpKullanimi\bin\Debug\MenuStrıpKullanimi.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\MenuStrıpKullanimi\obj\Debug\MenuStrıpKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\MenuStrıpKullanimi\obj\Debug\MenuStrıpKullanimi.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\MenuStrıpKullanimi\obj\Debug\MenuStrıpKullanimi.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\MenuStrıpKullanimi\obj\Debug\MenuStrıpKullanimi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\MenuStrıpKullanimi\obj\Debug\MenuStrıpKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\MenuStrıpKullanimi\obj\Debug\MenuStrıpKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\MenuStrıpKullanimi\obj\Debug\MenuStrıpKullanimi.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\MenuStrıpKullanimi\obj\Debug\MenuStrıpKullanimi.stokForm.resources

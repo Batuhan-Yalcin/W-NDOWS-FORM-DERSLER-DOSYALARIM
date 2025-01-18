@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleHesapMakinesiYapimi\bin\Debug\WindowsFormİleHesapMakinesiYapimi.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleHesapMakinesiYapimi\bin\Debug\WindowsFormİleHesapMakinesiYapimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleHesapMakinesiYapimi\bin\Debug\WindowsFormİleHesapMakinesiYapimi.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleHesapMakinesiYapimi\obj\Debug\WindowsFormİleHesapMakinesiYapimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleHesapMakinesiYapimi\obj\Debug\WindowsFormİleHesapMakinesiYapimi.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleHesapMakinesiYapimi\obj\Debug\WindowsFormİleHesapMakinesiYapimi.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleHesapMakinesiYapimi\obj\Debug\WindowsFormİleHesapMakinesiYapimi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleHesapMakinesiYapimi\obj\Debug\WindowsFormİleHesapMakinesiYapimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleHesapMakinesiYapimi\obj\Debug\WindowsFormİleHesapMakinesiYapimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormİleHesapMakinesiYapimi\obj\Debug\WindowsFormİleHesapMakinesiYapimi.pdb

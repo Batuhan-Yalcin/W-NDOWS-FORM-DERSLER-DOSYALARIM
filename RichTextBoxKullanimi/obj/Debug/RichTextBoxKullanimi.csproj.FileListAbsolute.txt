@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\RichTextBoxKullanimi\bin\Debug\RichTextBoxKullanimi.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\RichTextBoxKullanimi\bin\Debug\RichTextBoxKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\RichTextBoxKullanimi\bin\Debug\RichTextBoxKullanimi.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\RichTextBoxKullanimi\obj\Debug\RichTextBoxKullanimi.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\RichTextBoxKullanimi\obj\Debug\RichTextBoxKullanimi.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\RichTextBoxKullanimi\obj\Debug\RichTextBoxKullanimi.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\RichTextBoxKullanimi\obj\Debug\RichTextBoxKullanimi.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\RichTextBoxKullanimi\obj\Debug\RichTextBoxKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\RichTextBoxKullanimi\obj\Debug\RichTextBoxKullanimi.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\RichTextBoxKullanimi\obj\Debug\RichTextBoxKullanimi.pdb

@@ -1,0 +1,6 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\Matematikİslemleri\bin\Debug\Matematikİslemleri.dll
+C:\Users\Emre\Desktop\C# Windows Formlar\Matematikİslemleri\bin\Debug\Matematikİslemleri.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\Matematikİslemleri\obj\Debug\Matematikİslemleri.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\Matematikİslemleri\obj\Debug\Matematikİslemleri.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\Matematikİslemleri\obj\Debug\Matematikİslemleri.dll
+C:\Users\Emre\Desktop\C# Windows Formlar\Matematikİslemleri\obj\Debug\Matematikİslemleri.pdb

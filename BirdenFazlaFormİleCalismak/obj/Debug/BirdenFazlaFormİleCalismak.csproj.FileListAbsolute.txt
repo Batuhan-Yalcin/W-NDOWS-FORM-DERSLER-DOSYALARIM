@@ -1,0 +1,11 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\BirdenFazlaFormİleCalismak\bin\Debug\BirdenFazlaFormİleCalismak.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\BirdenFazlaFormİleCalismak\bin\Debug\BirdenFazlaFormİleCalismak.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\BirdenFazlaFormİleCalismak\bin\Debug\BirdenFazlaFormİleCalismak.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\BirdenFazlaFormİleCalismak\obj\Debug\BirdenFazlaFormİleCalismak.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\BirdenFazlaFormİleCalismak\obj\Debug\BirdenFazlaFormİleCalismak.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\BirdenFazlaFormİleCalismak\obj\Debug\BirdenFazlaFormİleCalismak.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\BirdenFazlaFormİleCalismak\obj\Debug\BirdenFazlaFormİleCalismak.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\BirdenFazlaFormİleCalismak\obj\Debug\BirdenFazlaFormİleCalismak.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\BirdenFazlaFormİleCalismak\obj\Debug\BirdenFazlaFormİleCalismak.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\BirdenFazlaFormİleCalismak\obj\Debug\BirdenFazlaFormİleCalismak.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\BirdenFazlaFormİleCalismak\obj\Debug\BirdenFazlaFormİleCalismak.anasayfa.resources

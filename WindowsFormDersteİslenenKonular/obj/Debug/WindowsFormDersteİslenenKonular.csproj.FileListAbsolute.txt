@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormDersteİslenenKonular\bin\Debug\WindowsFormDersteİslenenKonular.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormDersteİslenenKonular\bin\Debug\WindowsFormDersteİslenenKonular.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormDersteİslenenKonular\bin\Debug\WindowsFormDersteİslenenKonular.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormDersteİslenenKonular\obj\Debug\WindowsFormDersteİslenenKonular.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormDersteİslenenKonular\obj\Debug\WindowsFormDersteİslenenKonular.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormDersteİslenenKonular\obj\Debug\WindowsFormDersteİslenenKonular.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormDersteİslenenKonular\obj\Debug\WindowsFormDersteİslenenKonular.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormDersteİslenenKonular\obj\Debug\WindowsFormDersteİslenenKonular.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormDersteİslenenKonular\obj\Debug\WindowsFormDersteİslenenKonular.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\WindowsFormDersteİslenenKonular\obj\Debug\WindowsFormDersteİslenenKonular.pdb

@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\SinavaHazirlikİçinÖnemsizdir\bin\Debug\SinavaHazirlikİçinÖnemsizdir.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\SinavaHazirlikİçinÖnemsizdir\bin\Debug\SinavaHazirlikİçinÖnemsizdir.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\SinavaHazirlikİçinÖnemsizdir\bin\Debug\SinavaHazirlikİçinÖnemsizdir.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\SinavaHazirlikİçinÖnemsizdir\obj\Debug\SinavaHazirlikİçinÖnemsizdir.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\SinavaHazirlikİçinÖnemsizdir\obj\Debug\SinavaHazirlikİçinÖnemsizdir.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\SinavaHazirlikİçinÖnemsizdir\obj\Debug\SinavaHazirlikİçinÖnemsizdir.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\SinavaHazirlikİçinÖnemsizdir\obj\Debug\SinavaHazirlikİçinÖnemsizdir.pdb

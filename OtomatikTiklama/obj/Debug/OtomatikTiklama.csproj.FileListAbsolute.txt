@@ -1,0 +1,10 @@
+C:\Users\Emre\Desktop\C# Windows Formlar\OtomatikTiklama\bin\Debug\OtomatikTiklama.exe.config
+C:\Users\Emre\Desktop\C# Windows Formlar\OtomatikTiklama\bin\Debug\OtomatikTiklama.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\OtomatikTiklama\bin\Debug\OtomatikTiklama.pdb
+C:\Users\Emre\Desktop\C# Windows Formlar\OtomatikTiklama\obj\Debug\OtomatikTiklama.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\OtomatikTiklama\obj\Debug\OtomatikTiklama.Form1.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\OtomatikTiklama\obj\Debug\OtomatikTiklama.Properties.Resources.resources
+C:\Users\Emre\Desktop\C# Windows Formlar\OtomatikTiklama\obj\Debug\OtomatikTiklama.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\OtomatikTiklama\obj\Debug\OtomatikTiklama.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\C# Windows Formlar\OtomatikTiklama\obj\Debug\OtomatikTiklama.exe
+C:\Users\Emre\Desktop\C# Windows Formlar\OtomatikTiklama\obj\Debug\OtomatikTiklama.pdb
